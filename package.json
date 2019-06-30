@@ -14,11 +14,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/patilswapnilv/gamebot.git"
+    "url": "git@github.com/patilswapnilv.GameBot.git",
   },
   "keywords": ["chrome", "extension", "react", "redux", "hot reload", "webpack", "boilerplate"],
   "author": "Swapnil V. Patil <patilswapnilv@gmail.com>",
-  "license": "UNLICENSED",
+  "license": "UNLICENSEDx",
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-eslint": "^10.0.2",
@@ -38,7 +38,7 @@
     "crx": "^5.0.0",
     "css-loader": "^3.0.0",
     "css-modules-require-hook": "^4.2.3",
-    "eslint": "^>=11.10.",
+    "eslint": "^6.0.1",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-plugin-import": "^2.18.0",
     "eslint-plugin-jsx-a11y": "^6.2.2",
