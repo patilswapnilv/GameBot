@@ -1,5 +1,5 @@
 {
-  "name": "GameBot",
+  "name": "gamebot",
   "version": "0.0.1",
   "description": "GameBot chrome extension to keep yourself updates on your favorite games",
   "scripts": {
