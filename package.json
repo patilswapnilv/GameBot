@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com/patilswapnilv.GameBot.git",
+    "url": "git@github.com:patilswapnilv/GameBot.git",
   },
   "keywords": ["chrome", "extension", "react", "redux", "hot reload", "webpack", "boilerplate"],
   "author": "Swapnil V. Patil <patilswapnilv@gmail.com>",
