@@ -1,10 +1,10 @@
 # GameBot
 
-[![Build Status](https://travis-ci.org/jhen0409/react-chrome-extension-boilerplate.svg?branch=master)](https://travis-ci.org/jhen0409/react-chrome-extension-boilerplate)
-[![Build status: Windows](https://ci.appveyor.com/api/projects/status/b5xy6ev6oykth0d2/branch/master?svg=true)](https://ci.appveyor.com/project/jhen0409/react-chrome-extension-boilerplate/branch/master)
-[![NPM version](http://img.shields.io/npm/v/react-chrome-extension-boilerplate.svg?style=flat)](https://www.npmjs.com/package/react-chrome-extension-boilerplate)
-[![Dependency Status](https://david-dm.org/jhen0409/react-chrome-extension-boilerplate.svg)](https://david-dm.org/jhen0409/react-chrome-extension-boilerplate)
-[![devDependency Status](https://david-dm.org/jhen0409/react-chrome-extension-boilerplate/dev-status.svg)](https://david-dm.org/jhen0409/react-chrome-extension-boilerplate#info=devDependencies)
+[![Build Status](https://travis-ci.org/patilswapnilv/GameBot.svg?branch=dev)](https://travis-ci.org/patilswapnilv/GameBot)
+[![Build status: Windows](https://ci.appveyor.com/api/projects/status/b5xy6ev6oykth0d2/branch/master?svg=true)](https://ci.appveyor.com/project/patilswapnilv/GameBot/branch/dev)
+[![NPM version](http://img.shields.io/npm/v/GameBot.svg?style=flat)](https://www.npmjs.com/package/GameBot)
+[![Dependency Status](https://david-dm.org/patilswapnilv/GameBot.svg)](https://david-dm.org/patilswapnilv/GameBot)
+[![devDependency Status](https://david-dm.org/patilswapnilv/GameBot/dev-status.svg)](https://david-dm.org/patilswapnilv/GameBot#info=devDependencies)
 
 > GameBot chrome extension to keep yourself updates on your favorite games
 
