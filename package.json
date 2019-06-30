@@ -18,7 +18,7 @@
   },
   "keywords": ["chrome", "extension", "react", "redux", "hot reload", "webpack", "boilerplate"],
   "author": "Swapnil V. Patil <patilswapnilv@gmail.com>",
-  "license": "GPL3.0",
+  "license": "UNLICENSED",
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-eslint": "^10.0.2",
